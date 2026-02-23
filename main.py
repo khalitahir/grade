@@ -1,4 +1,5 @@
-grade = 101
+
+grade = int(input('enter your grade: '))
 if grade > 100:
     print("fadlan lama ogala xadi ka badan 100.")
 else:
